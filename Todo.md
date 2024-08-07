@@ -16,23 +16,23 @@
 
 ### 3. 基本数据结构(Slice, Map, Channel)
 
-## Go 项目
+## 项目
 
-### 1. Minni DouYin(Gin 框架)
 
-### 2. DataMangement(Beego 框架)
+### 1. DataMangement(Beego 框架)
+### 2. Minni DouYin(Gin 框架)
 
 ## CS 基础
 
-### 1. Linux
+### 1. MySQL
 
-### 2. Git
+### 2. Redis
 
-### 3. Docker
+### 3. Linux
 
-### 4. Redis
+### 4. Git
 
-### 5. K8s
+### 5. Docker
 
 ### 6. 数据结构，算法
 
@@ -44,4 +44,6 @@
 
 ### 10. TCP/UDP 网络协议及相关编程、进程间通讯编程
 
-### 11. CI/CD 流程
+### 11. K8s
+
+### 12. CI/CD 流程
