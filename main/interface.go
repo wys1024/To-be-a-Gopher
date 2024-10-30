@@ -8,7 +8,7 @@ type Dog struct {
 }
 
 func (d Dog) move() {
-	println("dog")
+	println("move ...")
 }
 
 func main() {
