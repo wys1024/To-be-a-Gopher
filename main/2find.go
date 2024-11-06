@@ -14,6 +14,7 @@ func lowerBound(nums []int, target int) int {
 		} else {
 			right = mid - 1
 			lowerBound(left, right)
+
 		}
 	}
 	return left
